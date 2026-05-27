@@ -1,2 +1,5 @@
 data/mongo/*
 !data/mongo/readme.md
+__pycache__/
+*/__pycache__/
+**/__pycache__/
